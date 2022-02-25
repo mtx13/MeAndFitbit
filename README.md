@@ -35,7 +35,7 @@ The data used was downloaded from Fitbit using the steps [here](https://help.fit
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook associated with this project and 1 data file.  The notebooks is an high-level exploratory analysis of my personal Fitbit data. 
+There is 1 notebook associated with this project and 1 data file.  The notebook is an high-level exploratory analysis of my personal Fitbit data. Other code may be added to this repository in the future if the project grows.
 
 ## Results<a name="results"></a>
 
