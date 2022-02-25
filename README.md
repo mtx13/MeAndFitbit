@@ -47,7 +47,7 @@ Template for the README file was provided by Udacity.
 
 Use of the Fitbit data is subject to the Terms of Service documented [here](https://dev.fitbit.com/legal/platform-terms-of-service/).
 
-Other acknowledgements of code found and leveraged via Stackoverflow are documented within the code. 
+Other acknowledgements of code leveraged via Stackoverflow are documented within the code itself.  Thank you Stackoverflow! 
 
 
 
