@@ -25,19 +25,21 @@ The following libraries were installed as part of this project:
 
 ## Project Motivation<a name="motivation"></a>
 
-The intention of this project is to examine my personal Fitbit data and look for larger utlization trends that the app typically can not provide. I know how I think I use my Fitbut but what does the data truly show:
+The intention of this project is to examine my personal Fitbit data and look for larger utlization trends that the app typically can not provide. I know how I think I use my Fitbit but what does the data truly show?  
 
-1. Am I consistent in wearing my Fitbit? 
-2. Does the weekday/weekend utilization differ? How?
-3. 
+1. How consitently do I wear my Fitbit? 
+3. Does the weekday/weekend utilization differ? How?
+4. Do I get more or less steps based on the time of year?  Winter in Minnesota means complete darkness by 5:00pm so my activity changes from walking to eliptical. 
 
-The data used was downloaded from Fitbit using the steps [here](https://help.fitbit.com/articles/en_US/Help_article/1133.htm). I used only my 2021 Activity data for this analysis. 
+The data used was downloaded from Fitbit using the steps [here](https://help.fitbit.com/articles/en_US/Help_article/1133.htm).  These .csv files were then merged into a single file. Only my 2021 Activity data for this analysis. 
 
 ## File Descriptions <a name="files"></a>
 
 There is 1 notebook associated with this project and 1 data file.  The notebook is an high-level exploratory analysis of my personal Fitbit data. Other code may be added to this repository in the future if the project grows.
 
 ## Results<a name="results"></a>
+
+Much of the analysis was done by simply doing a visual exploration of the data.  XGBoost regression was use to compare the feature importance of weekdays vs. weekends. No fine tuning of hyperparameters was done.  This is meant to be a high level project and first look at the data to determine if I want to investigate further. 
 
 The findings of this projects can be found at the blog post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
 
