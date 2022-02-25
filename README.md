@@ -39,7 +39,7 @@ There is 1 notebook associated with this project and 1 data file.  The notebooks
 
 ## Results<a name="results"></a>
 
-The findings of thsi projects can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The findings of this projects can be found at the blog post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
