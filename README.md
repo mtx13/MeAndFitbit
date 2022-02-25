@@ -19,7 +19,7 @@ xgboost   Version: 1.5.1
 
 ## Project Motivation<a name="motivation"></a>
 
-The intention of this project is to examine my personal fitbit data and look for larger utlization trends that the app typically can not provide. I know how I think I use my Fitbut but what does the data truly show:
+The intention of this project is to examine my personal Fitbit data and look for larger utlization trends that the app typically can not provide. I know how I think I use my Fitbut but what does the data truly show:
 
 1. Am I consistent in wearing my Fitbit? 
 2. Does the weekday/weekend utilization differ? How?
@@ -39,7 +39,7 @@ The findings of thsi projects can be found at the post available [here](https://
 
 Template for the README file was provided by Udacity. 
 
-Use of the fitbit data is subject to the Terms of Service documented [here](https://dev.fitbit.com/legal/platform-terms-of-service/).
+Use of the Fitbit data is subject to the Terms of Service documented [here](https://dev.fitbit.com/legal/platform-terms-of-service/).
 
 Other acknowledgements of code found and leveraged via Stackoverflow are documented within the code. 
 
