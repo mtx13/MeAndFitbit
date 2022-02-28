@@ -25,6 +25,8 @@ The following libraries were installed as part of this project:
 
 ## Project Motivation<a name="motivation"></a>
 
+https://github.com/mtx13/MeAndFitbit/blob/main/Fitbit%20Logo.png
+
 The intention of this project is to examine my personal Fitbit data and look for larger trends that the app typically can not provide. Do my internal interpretations of my activity align with the data? The intention is not to improve fitness, lose weight or make changes to my habits. This is intended to discover the truth about my Fitbit utlization. 
 
 1. How consitently do I wear my Fitbit? 
