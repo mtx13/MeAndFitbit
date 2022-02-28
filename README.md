@@ -28,15 +28,16 @@ The following libraries were installed as part of this project:
 The intention of this project is to examine my personal Fitbit data and look for larger trends that the app typically can not provide. Do my internal interpretations of my activity align with the data? The intention is not to improve fitness, lose weight or make changes to my habits. This is intended to discover the truth about my Fitbit utlization. 
 
 1. How consitently do I wear my Fitbit? 
-2. Does the weekday/weekend utilization differ? How?
-3. Do I get more or less steps based on the time of year?  Winter in Minnesota means complete darkness by 5:00pm so my activity changes from walking to eliptical. 
-4. 
+2. Does the number of steps vary by day of week? 
+3. Do the monthly steps vary? Winter in Minnesota means complete darkness by 5:00pm so my activity changes from walking to eliptical. 
+4. What is the distribution of steps based on day of week? 
+5. What contributes most to the number of Steps?  High intensity for fewer minutes? Or low intensity over more minutes? 
 
-The data used was downloaded from Fitbit using the steps [here](https://help.fitbit.com/articles/en_US/Help_article/1133.htm).  Only my 2021 Activity data for this analysis. 
+The data used was downloaded from Fitbit using the steps [here](https://help.fitbit.com/articles/en_US/Help_article/1133.htm).  Only my 2020 & 2021 Activity data for this analysis. 
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook associated with this project and 1 data file.  The notebook is an high-level exploratory analysis of my personal Fitbit data. Other code may be added to this repository in the future if my curiousity grows. 
+There is 1 notebook associated with this project and 2 data files.  The notebook is an high-level exploratory analysis of my personal Fitbit data. Other code may be added to this repository in the future if my curiousity grows.  There is a file for each of 2020 & 2021. 
 
 ## Results<a name="results"></a>
 
