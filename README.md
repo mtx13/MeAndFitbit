@@ -38,7 +38,7 @@ The data used was downloaded from Fitbit using the steps [here](https://help.fit
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook associated with this project and 2 data files.  The notebook is an high-level exploratory analysis of my personal Fitbit data. Other code may be added to this repository in the future if my curiousity grows.  There is a file for each of 2020 & 2021. 
+There is 1 Jupyter notebook associated with this project(myFitBitActivity.ipnyb) and 2 data files.  The notebook is an high-level exploratory analysis of my personal Fitbit data. Other code may be added to this repository in the future if my curiousity grows.  There is a data file for each of 2020 & 2021 in the ./data folder. 
 
 ## Results<a name="results"></a>
 
