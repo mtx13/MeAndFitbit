@@ -46,7 +46,7 @@ The Fitbit logo file is provided as well.
 
 Much of the analysis was done by simply doing a visual exploration of the data.  XGBoost regression was use to compare the feature importance of weekdays vs. weekends. No fine tuning of hyperparameters was done.  This is meant to be a high level project and first look at the data.
 
-The findings of this projects can be found at the blog post available [here](https://medium.com/@marcellatietjen/fitbit-reality-check-7e3669152268).
+The findings of this projects are documented throughout the code and can be found at the blog post available [here](https://medium.com/@marcellatietjen/fitbit-reality-check-7e3669152268).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
