@@ -28,7 +28,7 @@ The intention of this project is to examine my personal Fitbit data and look for
 
 1. How consitently do I wear my Fitbit? 
 2. Does the number of steps vary by day of week? 
-3. Do the monthly steps vary? Winter in Minnesota means complete darkness by 5:00pm so my activity changes from walking to eliptical. 
+3. Do the monthly steps vary? Winter in Minnesota means complete darkness by 5:00pm so my activity changes from walking to elliptical. 
 4. What is the distribution of steps based on day of week? 
 5. What contributes most to the number of Steps?  High intensity for fewer minutes? Or low intensity over more minutes? 
 
