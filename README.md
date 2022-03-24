@@ -34,7 +34,7 @@ The intention of this project is to examine my personal Fitbit data and look for
 
 <img src= https://github.com/mtx13/MeAndFitbit/blob/main/Fitbit%20Logo.png >
 
-The data used was downloaded from Fitbit using the steps [here](https://help.fitbit.com/articles/en_US/Help_article/1133.htm).  Only my 2020 & 2021 Activity data for this analysis. 
+The data used was downloaded from Fitbit using the steps [here](https://help.fitbit.com/articles/en_US/Help_article/1133.htm).  Only my 2020 & 2021 activity data were used for this analysis. 
 
 ## File Descriptions <a name="files"></a>
 
